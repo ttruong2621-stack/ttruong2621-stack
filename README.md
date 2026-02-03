@@ -1,9 +1,9 @@
-#About me
+# About me
 
-*Hi there, my name is Tuong Truong 👋
-*😄In general, I am interested in quite a lot of things that relate to computers, such as A.I, robotics, websites, coding, etc.
-*🌱 I am a senior at SDSU
-*👯 I am looking forward to gaining various practical experiences in making a website
+* Hi there, my name is Tuong Truong 👋
+* 😄In general, I am interested in quite a lot of things that relate to computers, such as A.I, robotics, websites, coding, etc.
+* 🌱 I am a senior at SDSU
+* 👯 I am looking forward to gaining various practical experiences in    making a website
 *Hopefully to graduate around Spring of 2027 and get my bachelor's degree
 
 <!--
